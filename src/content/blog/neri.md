@@ -53,14 +53,14 @@ Dentro de un proyecto hay tres principales restricciones las cuales son:
 - Tiempo
 - Costo
 - Calidad
-  ![Alt text](tiple.png)
+  ![tiple](/tiple.png)
 
 ## Stakeholders
 
 - Son individuos u organizaciones involucrados con el proyecto
 - Son aquellos a los que el resultado del proyecto afecta
 - Se deben identificar para saber sus necesidades y expectativas
-  ![Alt text](image-1.png)
+  ![Alt text](/image-1.png)
 
 **Los principales stakeholders son:**
 
@@ -70,7 +70,7 @@ Dentro de un proyecto hay tres principales restricciones las cuales son:
 - Equipo de desarrollo
 - Sponsor
 
-![Alt text](image-3.png)
+![Alt text](/image-3.png)
 
 los objetivos deben de ser SMART
 
